@@ -5,15 +5,15 @@
 
 | No |   Title   |  
 | :--- | :----------------------: | 
-| 1. |   [Project Overview](##Project-Overview) |   
-| 2. |[Datasets](##Datasets)|   
-| 3.  |  [Methodology](##Methodology)  | 
-| 5.  |    [Models and Baseline](##Models-and-Baseline)   | 
-| 6.  |    [Evaluation Metrics and Results](##Evaluation-Metrics-and-Results)   | 
-| 7.  |    [Code Instructions](##Code-Instructions)   | 
-| 8.  |    [Interpretation of Results](##Interpretation-of-Results)   | 
-| 9.  |    [References](##References)   | 
-| 10.  |    [Project Team Members](##Project-Team-Members)   | 
+| 1. |   [Project Overview](#Project-Overview) |   
+| 2. |[Datasets](#Datasets)|   
+| 3.  |  [Methodology](#Methodology)  | 
+| 5.  |    [Models and Baseline](#Models-and-Baseline)   | 
+| 6.  |    [Evaluation Metrics and Results](#Evaluation-Metrics-and-Results)   | 
+| 7.  |    [Code Instructions](#Code-Instructions)   | 
+| 8.  |    [Interpretation of Results](#Interpretation-of-Results)   | 
+| 9.  |    [References](#References)   | 
+| 10.  |    [Project Team Members](#Project-Team-Members)   | 
 
 </center>
 
