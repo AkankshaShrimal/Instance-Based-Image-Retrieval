@@ -6,8 +6,9 @@
 | No |   Title   |  
 | :--- | :----------------------: | 
 | 1. |   [Project Overview](#Project-Overview) |   
-| 2. |[Datasets](#Datasets)|   
-| 3.  |  [Methodology](#Methodology)  | 
+| 2. |   [Project Demo](#Project-Demo) |   
+| 3. |[Datasets](#Datasets)|   
+| 4.  |  [Methodology](#Methodology)  | 
 | 5.  |    [Models and Baseline](#Models-and-Baseline)   | 
 | 6.  |    [Evaluation Metrics and Results](#Evaluation-Metrics-and-Results)   | 
 | 7.  |    [Code Instructions](#Code-Instructions)   | 
@@ -37,6 +38,18 @@ Project Poster can be found in [IR-Poster-Final.pdf](IR-Poster-Final.pdf).
 
 Project Report can be found in [IR_Project_EndTerm_Report.pdf](IR_Project_EndTerm_Report.pdf).
 
+
+## Project Demo
+
+                  Fig. Bound Box from Ground Truth 
+
+<div align="center"><img src="Images/outputs/demo1_box_not_given.gif" height=400/></div>
+
+                  Fig. Bound Box Coordinates Provided (top left:x1,y1 bottom right: x2,y2)
+
+<div align="center"><img src="Images/outputs/demo2_box_given.gif" height=400/></div>
+
+<p>&nbsp;</p>
 ## Datasets 
 
 The four datasets used are : 
