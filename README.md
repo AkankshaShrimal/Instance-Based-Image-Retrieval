@@ -50,6 +50,7 @@ Project Report can be found in [IR_Project_EndTerm_Report.pdf](IR_Project_EndTer
 <div align="center"><img src="Images/outputs/demo2_box_given.gif" height=400/></div>
 
 <p>&nbsp;</p>
+
 ## Datasets 
 
 The four datasets used are : 
@@ -481,6 +482,16 @@ Following are the results of the project:
         def __init__(self,ranking_save_folder):
             self.ranking_save_folder = ranking_save_folder
     ```
+    - To take demo simply run the following code:- 
+    ```
+    import warnings 
+    warnings.filterwarnings("ignore")
+
+    plt.style.use("classic")
+    plt.rcParams.update({'font.size': 10})
+    get_results()
+
+    ```
 
 ## Interpretation of Results
 - Bag of Visual words Dl model outperforms all the other models but
@@ -506,6 +517,6 @@ Following are the results of the project:
 1. Akanksha Shrimal
 2. Shivam Sharma 
 3. Shivank Agahari 
-4. Pradeep Kumar
-5. Sudha Kumari  
+4. Sudha Kumari
+5. Pradeep Kumar  
 
